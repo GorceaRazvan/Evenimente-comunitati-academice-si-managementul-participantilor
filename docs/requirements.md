@@ -1,0 +1,1 @@
+# Cerințe Funcționale și Nefuncționale
